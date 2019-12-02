@@ -1,0 +1,4 @@
+同台机器安装python2 和python3,借用py的一个参数来调用不同版本的Python。py -2调用python2，py -3调用的是python3.
+
+
+
